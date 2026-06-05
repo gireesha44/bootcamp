@@ -1,0 +1,17 @@
+body{
+  background-color: #000;
+}
+.myimage{
+  border:4px solid white;
+  height:200px;
+}
+h1{
+  font-size:2rem;
+}
+.poster{
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+  color:white;
+}
